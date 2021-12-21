@@ -10,7 +10,7 @@ role: Postdoctoral Scholar
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: MIT
+- name: MIT
   url: https://www.MIT.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -25,13 +25,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Postdoc: Biological Engineering
+- course: Postdoc: Biological Engineering
     institution: MIT
     year: 2020 - present
-  - course: PhD: Physics
+- course: PhD: Physics
     institution: University of Cambridge - Cavendish Laboratory
     year: 2016 - 2020
-  - course: MSci. Chemsitry with a Year in Industry
+- course: MSci. Chemsitry with a Year in Industry
     institution: Imperial College London (Merck KGaA)
     year: 2011 - 2016
 
