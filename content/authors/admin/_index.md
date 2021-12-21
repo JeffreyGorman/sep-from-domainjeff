@@ -27,13 +27,13 @@ education:
   courses:
 - course: Postdoc: Biological Engineering
     institution: MIT
-    year: 2020 - present
+    year: 2020
 - course: PhD: Physics
     institution: University of Cambridge - Cavendish Laboratory
-    year: 2016 - 2020
+    year: 2020
 - course: MSci. Chemsitry with a Year in Industry
     institution: Imperial College London (Merck KGaA)
-    year: 2011 - 2016
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
