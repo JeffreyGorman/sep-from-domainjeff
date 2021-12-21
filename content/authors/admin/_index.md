@@ -10,7 +10,7 @@ role: Postdoctoral Scholar
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: MIT
+  - name: MIT
   url: https://www.MIT.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,9 +18,9 @@ bio: My research is focused on the interface between DNA assembly and organic se
 
 # Interests to show in About widget
 interests:
-- Exciton photophysics
-- DNA Encoded libraries for Materials and Physical Chemsitry
-- Solid phase unatural-oligonucleotide synthesis
+  - Exciton photophysics
+  - DNA Encoded libraries for Materials and Physical Chemsitry
+  - Solid phase unatural-oligonucleotide synthesis
 
 # Education to show in About widget
 education:
@@ -40,18 +40,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-<!-- - icon: envelope
+- icon: envelope
   icon_pack: fas
-  link: '/#contact' -->
+  link: '/#contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jeffrey_gorman
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=dAKlZOAAAAAJ&hl
-<!-- - icon: github
+- icon: github
   icon_pack: fab
-  link: https://github.com/gcushen -->
+  link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/jeffrey-e-gorman
