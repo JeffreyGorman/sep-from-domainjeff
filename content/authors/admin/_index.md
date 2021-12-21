@@ -25,16 +25,16 @@ interests:
 # Education to show in About widget
 education:
   courses:
-- course: Postdoc: Biological Engineering
-    institution: MIT
+  - course: Postdoc in Biological Engineering
+    institution: Massachusetts Institute of Technology
     year: 2020
-- course: PhD: Physics
-    institution: University of Cambridge - Cavendish Laboratory
+  - course: PhD: Physics
+    institution: University of Cambridge, Cavendish Laboratory
     year: 2020
-- course: MSci. Chemsitry with a Year in Industry
-    institution: Imperial College London (Merck KGaA)
+  - course: MSci. Chemsitry with a Year in Industry
+    institution: Imperial College London, Merck KGaA
     year: 2016
-
+	
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
